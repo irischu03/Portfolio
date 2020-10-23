@@ -8,7 +8,7 @@ Researching grant prospects could be time-consuming and overwhelming. Our goal i
 1. Find suitable online grant opportunities using BeautifulSoup and selenium
 2. Create autofill scripts to fill in constant values
 
-[#Project 5: IMDB Reviews Analysis : Project Overview]
+[#Project 2: IMDB Reviews Analysis : Project Overview](https://github.com/irischu03/IMDB-Reviews-Analysis/blob/main/README.md)
 
 
 [#Project 3: Healthcare Classification Problem : Project Overview](https://github.com/irischu03/Healthcare-Classification-Problem/blob/main/README.md)
