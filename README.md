@@ -13,4 +13,6 @@ Researching grant prospects could be time-consuming and overwhelming. Our goal i
 
 I built a price tracking for Amazon product. This could be useful to send email to user if the price has fallen down.
 
-[#Project 3: Housing Price Regression : Project Overview](https://github.com/irischu03/Housing-Price-Regression-Model/blob/main/README.md)
+[#Project 3: Healthcare Classification Problem : Project Overview](https://github.com/irischu03/Healthcare-Classification-Problem/blob/main/README.md)
+
+[#Project 4: Housing Price Regression : Project Overview](https://github.com/irischu03/Housing-Price-Regression-Model/blob/main/README.md)
