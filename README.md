@@ -8,11 +8,13 @@ Researching grant prospects could be time-consuming and overwhelming. Our goal i
 1. Find suitable online grant opportunities using BeautifulSoup and selenium
 2. Create autofill scripts to fill in constant values
 
+[#Project 5: IMDB Reviews Analysis : Project Overview]
 
-[#Project 2: Amazon Price Tracking : Project Overview](https://github.com/irischu03/Price-Tracker/blob/main/README.md)
-
-I built a price tracking for Amazon product. This could be useful to send email to user if the price has fallen down.
 
 [#Project 3: Healthcare Classification Problem : Project Overview](https://github.com/irischu03/Healthcare-Classification-Problem/blob/main/README.md)
 
 [#Project 4: Housing Price Regression : Project Overview](https://github.com/irischu03/Housing-Price-Regression-Model/blob/main/README.md)
+
+[#Project 5: Amazon Price Tracking : Project Overview](https://github.com/irischu03/Price-Tracker/blob/main/README.md)
+
+I built a price tracking for Amazon product. This could be useful to send email to user if the price has fallen down.
