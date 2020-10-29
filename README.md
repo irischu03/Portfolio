@@ -8,6 +8,8 @@ Researching grant prospects could be time-consuming and overwhelming. Our goal i
 1. Find suitable online grant opportunities using BeautifulSoup and selenium
 2. Create and train NLP model for automation
 
+![sentimentwords](https://user-images.githubusercontent.com/72762392/97641823-2e1c2380-1a1a-11eb-863a-f85a3c729c43.JPG)
+
 [#Project 2: IMDB Reviews Analysis : Project Overview](https://github.com/irischu03/IMDB-Reviews-Analysis/blob/main/README.md)
 
 Using logistic regression in R to perform binary classification of IMDB moview reviews. To improve accuracy, I also test the impact of different thresholds for classification and plot ROC curve for visualization.
