@@ -9,6 +9,7 @@ This project addresses the two questions that came up:
 2. Is it possible to predict customer’s satisfaction rate based on the information from survey? 
 
 ![accuracy](https://user-images.githubusercontent.com/72762392/100962728-e85bea80-34f2-11eb-9c55-3a885dc062f0.jpg)
+
 ![imp](https://user-images.githubusercontent.com/72762392/100962564-869b8080-34f2-11eb-946a-26ef56765c09.jpg)
 
 [#Project 2: Grant Searching Automation : Project Overview](https://github.com/irischu03/Grant-Searching/blob/main/README.md)
