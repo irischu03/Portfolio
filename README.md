@@ -12,7 +12,7 @@ This project addresses the two questions that came up:
 
 ![imp](https://user-images.githubusercontent.com/72762392/100962564-869b8080-34f2-11eb-946a-26ef56765c09.jpg)
 
-[#Project 2: Grant Searching Automation : Project Overview](https://github.com/irischu03/Grant-Searching/blob/main/README.md)
+[#Project 2: Grant Searching Automation : Project Overview](https://github.com/irischu03/Grant-Searching/blob/main/README.md)(Ongoing)
 
 Researching grant prospects could be time-consuming and overwhelming. Our goal in this project is to develop an automation system so that our organization is able to find available grant opportunities and fill out applications with little or no human intervention.
 
