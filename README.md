@@ -21,6 +21,9 @@ Researching grant prospects could be time-consuming and overwhelming. Our goal i
 
 ![sentimentwords](https://user-images.githubusercontent.com/72762392/97641823-2e1c2380-1a1a-11eb-863a-f85a3c729c43.JPG)
 
+![lstm](https://user-images.githubusercontent.com/72762392/102027358-79438900-3d71-11eb-97bb-903893cb387b.JPG)
+
+
 [#Project 3: IMDB Reviews Analysis : Project Overview](https://github.com/irischu03/IMDB-Reviews-Analysis/blob/main/README.md)
 
 Using logistic regression in R to perform binary classification of IMDB moview reviews. To improve accuracy, I also test the impact of different thresholds for classification and plot ROC curve for visualization.
