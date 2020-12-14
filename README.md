@@ -10,7 +10,8 @@ This project addresses the two questions that came up:
 
 <div align="center"><img src="https://user-images.githubusercontent.com/72762392/100962728-e85bea80-34f2-11eb-9c55-3a885dc062f0.jpg" width="70%" height="70%"/></div>
 
-![imp](https://user-images.githubusercontent.com/72762392/100962564-869b8080-34f2-11eb-946a-26ef56765c09.jpg)
+<div align="center"><img src="https://user-images.githubusercontent.com/72762392/100962564-869b8080-34f2-11eb-946a-26ef56765c09.jpg" width="70%" height="70%"/></div>
+
 
 [#Project 2: Grant Searching Automation : Project Overview](https://github.com/irischu03/Grant-Searching/blob/main/README.md)(Ongoing)
 
@@ -28,9 +29,9 @@ Researching grant prospects could be time-consuming and overwhelming. Our goal i
 
 Using logistic regression in R to perform binary classification of IMDB moview reviews. To improve accuracy, I also test the impact of different thresholds for classification and plot ROC curve for visualization.
 
-<img src="https://user-images.githubusercontent.com/72762392/97096411-ea03da00-1639-11eb-8298-67215becd382.JPG" width="70%" height="70%"/>
+<div align="center"><img src="https://user-images.githubusercontent.com/72762392/97096411-ea03da00-1639-11eb-8298-67215becd382.JPG" width="70%" height="70%"/></div>
 
-![roc curve](https://user-images.githubusercontent.com/72762392/97096436-449d3600-163a-11eb-9a4c-e84417fb405f.JPG)
+<div align="center"><img src="https://user-images.githubusercontent.com/72762392/97096436-449d3600-163a-11eb-9a4c-e84417fb405f.JPG" width="70%" height="70%"/></div>
 
 [#Project 4: Healthcare Classification Problem : Project Overview](https://github.com/irischu03/Healthcare-Classification-Problem/blob/main/README.md)
 
