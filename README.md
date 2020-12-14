@@ -8,7 +8,7 @@ This project addresses the two questions that came up:
 1. What are the most important factors affecting customer’s satisfaction? 
 2. Is it possible to predict customer’s satisfaction rate based on the information from survey? 
 
-![accuracy](https://user-images.githubusercontent.com/72762392/100962728-e85bea80-34f2-11eb-9c55-3a885dc062f0.jpg)
+<img src="https://user-images.githubusercontent.com/72762392/100962728-e85bea80-34f2-11eb-9c55-3a885dc062f0.jpg" style="zoom:50%"/>
 
 ![imp](https://user-images.githubusercontent.com/72762392/100962564-869b8080-34f2-11eb-946a-26ef56765c09.jpg)
 
