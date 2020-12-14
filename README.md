@@ -20,10 +20,9 @@ Researching grant prospects could be time-consuming and overwhelming. Our goal i
 1. Find suitable online grant opportunities using BeautifulSoup and selenium
 2. Create and train NLP model for automation
 
-![sentimentwords](https://user-images.githubusercontent.com/72762392/97641823-2e1c2380-1a1a-11eb-863a-f85a3c729c43.JPG)
+<div align="center"><img src="https://user-images.githubusercontent.com/72762392/97641823-2e1c2380-1a1a-11eb-863a-f85a3c729c43.JPG" /></div>
 
-![lstm](https://user-images.githubusercontent.com/72762392/102027358-79438900-3d71-11eb-97bb-903893cb387b.JPG)
-
+<div align="center"><img src="https://user-images.githubusercontent.com/72762392/102027358-79438900-3d71-11eb-97bb-903893cb387b.JPG" width="70%" height="70%"/></div>
 
 [#Project 3: IMDB Reviews Analysis : Project Overview](https://github.com/irischu03/IMDB-Reviews-Analysis/blob/main/README.md)
 
