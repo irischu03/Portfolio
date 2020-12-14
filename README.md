@@ -28,7 +28,8 @@ Researching grant prospects could be time-consuming and overwhelming. Our goal i
 
 Using logistic regression in R to perform binary classification of IMDB moview reviews. To improve accuracy, I also test the impact of different thresholds for classification and plot ROC curve for visualization.
 
-![hist](https://user-images.githubusercontent.com/72762392/97096411-ea03da00-1639-11eb-8298-67215becd382.JPG){:height="100" width="100"}
+<img src="https://user-images.githubusercontent.com/72762392/97096411-ea03da00-1639-11eb-8298-67215becd382.JPG" style="zoom:50%"/>
+
 ![roc curve](https://user-images.githubusercontent.com/72762392/97096436-449d3600-163a-11eb-9a4c-e84417fb405f.JPG)
 
 [#Project 4: Healthcare Classification Problem : Project Overview](https://github.com/irischu03/Healthcare-Classification-Problem/blob/main/README.md)
