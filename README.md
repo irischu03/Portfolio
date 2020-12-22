@@ -32,12 +32,19 @@ Using logistic regression in R to perform binary classification of IMDB moview r
 
 <div align="center"><img src="https://user-images.githubusercontent.com/72762392/97096436-449d3600-163a-11eb-9a4c-e84417fb405f.JPG" width="70%" height="70%"/></div>
 
-[#Project 4: Healthcare Classification Problem : Project Overview](https://github.com/irischu03/Healthcare-Classification-Problem/blob/main/README.md)
+[#Project 4: Insurance Churn Analysis : Project Overview](https://github.com/irischu03/Insurance-Churn-Analysis/blob/main/README.md)
+
+Insurance companies around the world operate in a very competitive environment. With various aspects of data collected from millions of customers, it is painstakingly hard to analyze and understand the reason for a customer’s decision to switch to a different insurance provider.
+For an industry where customer acquisition and retention are equally important, and the former being a more expensive process, insurance companies rely on data to understand customer behavior to prevent retention. Thus knowing whether a customer is possibly going to switch beforehand gives insurance companies an opportunity to come up with strategies to prevent it from actually happening.
+
+<div align="center"><img src="https://user-images.githubusercontent.com/72762392/102912991-1d9d8d80-444c-11eb-8a9a-b94377e127ca.JPG"/></div>
+
+[#Project 5: Healthcare Classification Problem : Project Overview](https://github.com/irischu03/Healthcare-Classification-Problem/blob/main/README.md)
 
 Recent Covid-19 Pandemic has raised alarms over one of the most overlooked area to focus: Healthcare Management. While healthcare management has various use cases for using data science, patient length of stay is one critical parameter to observe and predict if one wants to improve the efficiency of the healthcare management in a hospital.
 My goal is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. 
 
-[#Project 5: Housing Price Regression : Project Overview](https://github.com/irischu03/Housing-Price-Regression-Model/blob/main/README.md)
+[#Project 6: Housing Price Regression : Project Overview](https://github.com/irischu03/Housing-Price-Regression-Model/blob/main/README.md)
 
 The project aims at building a linear model to predict the selling price using a set of potential predictor variables.
 
